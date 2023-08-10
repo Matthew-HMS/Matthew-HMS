@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-HMS&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-HMS&layout=donut)](https://github.com/Matthew-HMS/github-readme-stats)
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-HMS&show_icons=true&theme=dracula)\
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matthew-HMS&theme=dracula)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\
 ![](https://komarev.com/ghpvc/?username=Matthew-HMS&color=blueviolet&style=plastic&label=Views)
