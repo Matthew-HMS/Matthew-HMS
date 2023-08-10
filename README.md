@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matthew-HMS&theme=radical)\
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-HMS&show_icons=true&theme=dracula)
+![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-HMS&show_icons=true&theme=radical)
 [![Matthew's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=imsho&theme=dark)](https://github.com/imsho/leetcode-stats)\
 ![](https://github.com/Matthew-HMS/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/Matthew-HMS/github-stats-transparent/blob/output/generated/languages.svg)\
