@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![](https://komarev.com/ghpvc/?username=Matthew-HMS&color=green)
+![](https://komarev.com/ghpvc/?username=Matthew-HMS&color=blueviolet&style=plastic&label=Views)
 <!--
 **Matthew-HMS/Matthew-HMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
