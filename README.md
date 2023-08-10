@@ -6,7 +6,10 @@
 [![Matthew's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=imsho&theme=dark)](https://github.com/imsho/leetcode-stats)
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
 ![](https://komarev.com/ghpvc/?username=Matthew-HMS&color=blueviolet&style=plastic&label=Views)
 
 
