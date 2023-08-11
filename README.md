@@ -4,7 +4,7 @@
 ![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-HMS&show_icons=true&theme=radical)
 [![Matthew's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=imsho&theme=dark)](https://github.com/imsho/leetcode-stats)\
 ![](https://github.com/Matthew-HMS/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/Matthew-HMS/github-stats-transparent/blob/output/generated/languages.svg)\
+![](https://github.com/Matthew-HMS/github-stats-transparent/blob/output/generated/languages.svg)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
