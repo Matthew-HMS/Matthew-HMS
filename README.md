@@ -1,7 +1,7 @@
 ### Hi there, I'm Matthew. 👋
 I'm currently a student at NCU in TW, studying Information Management!
 
-<br>
+<br/>
 ### Github stats 🪄
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matthew-HMS&theme=radical)\-->
 ![](https://github.com/Matthew-HMS/github-stats-transparent/blob/output/generated/overview.svg)
@@ -10,7 +10,7 @@ I'm currently a student at NCU in TW, studying Information Management!
 [![Matthew's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=imsho&theme=dark)](https://github.com/imsho/leetcode-stats)\
 <!--![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-HMS&show_icons=true&theme=radical)\-->
 
-<br>
+<br/>
 
 ### Languages & Tools 🔧:
 
