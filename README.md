@@ -7,11 +7,12 @@ I'm currently a student at NCU in TW, studying Information Management!
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matthew-HMS&theme=radical)\-->
 ![](https://github.com/Matthew-HMS/github-stats-transparent/blob/output/generated/overview.svg)
 ![](https://github.com/Matthew-HMS/github-stats-transparent/blob/output/generated/languages.svg)
+<br>
 ### LeetCode stats 💻
 [![Matthew's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=imsho&theme=dark)](https://github.com/imsho/leetcode-stats)
 <!--![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-HMS&show_icons=true&theme=radical)\-->
 
-<br/>
+<br>
 
 ### Languages & Tools 🔧:
 
@@ -23,9 +24,10 @@ I'm currently a student at NCU in TW, studying Information Management!
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" alt="c++" align="left" height='42px'/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg" align="left" alt="html" height='42px'/> </a>
 
-<br/>
+<br>
+<br>
 
-![](https://komarev.com/ghpvc/?username=Matthew-HMS&color=blueviolet&style=plastic&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=Matthew-HMS&color=blueviolet&style=plastic&label=Profile+Views" alt="Profile Views" align="right">
 
 
 <!--
