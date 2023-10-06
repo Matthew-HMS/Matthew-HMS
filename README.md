@@ -2,7 +2,6 @@
 I'm currently a student at NCU in TW, studying Information Management!
 
 <br>
-<br>
 
 ### Github stats 🪄
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matthew-HMS&theme=radical)\-->
@@ -21,6 +20,10 @@ I'm currently a student at NCU in TW, studying Information Management!
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://cplusplus.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" alt="c++" height='42px'/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg" alt="html" height='42px'/> </a>
+
+
 
 
 <br>
