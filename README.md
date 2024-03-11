@@ -10,7 +10,7 @@ I'm currently a student at NCU in TW, studying Information Management!
 <br>
 ### LeetCode stats 💻
 <!--[![Matthew's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=imsho&theme=dark)](https://github.com/imsho/leetcode-stats)-->
-![Matthew's Leetcode Stats](https://leetcard.jacoblin.cool/imsho?font=milonga&ext=heatmap&theme=nord&border=0&radius=20)
+![Matthew's Leetcode Stats](https://leetcard.jacoblin.cool/imsho?font=milonga&theme=nord&border=0&radius=20)
 
 <br>
 
