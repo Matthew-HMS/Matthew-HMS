@@ -9,8 +9,8 @@ I'm currently a student at NCU in TW, studying Information Management!
 ![](https://github.com/Matthew-HMS/github-stats-transparent/blob/output/generated/languages.svg)
 <br>
 ### LeetCode stats 💻
-[![Matthew's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=imsho&theme=dark)](https://github.com/imsho/leetcode-stats)
-<!--![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matthew-HMS&show_icons=true&theme=radical)\-->
+<!--[![Matthew's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=imsho&theme=dark)](https://github.com/imsho/leetcode-stats)-->
+![Matthew's Leetcode Stats](https://leetcard.jacoblin.cool/imsho?font=milonga&ext=heatmap&theme=dark&border=0&radius=20)
 
 <br>
 
