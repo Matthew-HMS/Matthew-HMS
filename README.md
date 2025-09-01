@@ -1,5 +1,5 @@
 ### Hi there, I'm Matthew. 👋
-I'm currently a student at NCU in TW, studying Information Management!
+MIS @NYCU
 
 <br>
 
