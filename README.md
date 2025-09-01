@@ -23,6 +23,9 @@ MIS @NYCU
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" align="left" alt="figma" height='42px'/> </a>
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg" alt="c++" align="left" height='42px'/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg" align="left" alt="html" height='42px'/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/docker/docker.svg" align="left" alt="docker" height='42px'/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/aws/aws.svg" align="left" alt="aws" height='42px'/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/pytorch/pytorch.svg" align="left" alt="aws" height='42px'/> </a>
 
 <br>
 <br>
