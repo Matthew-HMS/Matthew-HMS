@@ -1,5 +1,5 @@
 ### Hi there, I'm Matthew. 👋
-MIS @NYCU
+Studying MIS @NYCU
 
 <br>
 
